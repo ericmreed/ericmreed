@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- ## Connect with me: (these should be SVG with width of 25px, preferrably a b/w)
 
-twitter, email, linkedin, Youtube, Instagram, website, 
+twitter, email, linkedin, Youtube, Instagram, website, Gitlab
 -->
 
 <!-- ## Tools and Languages (find Color placard images (SVG 25px) for each of these):
