@@ -5,6 +5,9 @@
 
 Summary: Managed Services, Enterprise (Fortune 500), SaaS, DevOps, Transformation, Leadership, Management
 
+
+Help with Markdown: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
